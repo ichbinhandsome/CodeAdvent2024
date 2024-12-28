@@ -1,3 +1,3 @@
 # CodeAdvent2024
 10 days records...
-[image](./codeadvent.jpg)
+![image](./codeadvent.jpg)
